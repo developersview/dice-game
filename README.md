@@ -2,7 +2,7 @@
 
 > This is beautiful and simple Dice Pig made with HTML5, CSS3 and JavaScript.
 
-[Play The Game! (Live Demo)]()
+[Play The Game! (Live Demo)](https://dice-game-pranoy.netlify.app/)
 
 --- 
 
